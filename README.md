@@ -11,7 +11,7 @@ This project specifically focuses on the calendar.help feature which enables the
 1. What is calendar.help?
 2. What does calendar.help do?
 3. How does calendar.help work?
-4. What are some NLP applications that calendar.help process uses?
+4. What are some NLP applications that the calendar.help process uses?
 
 ### Installation: 
 The pdf file can be downloaded and be used for general information. A detailed reseach paper written by Outlook researchers has been added at the end of the file as a link for further information. 
